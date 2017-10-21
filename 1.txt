@@ -1,5 +1,9 @@
+<<<<<<< HEAD
  resdfg
   dsf sd
   f 
   sdf 
   s
+=======
+fcjhgfdghkfhgfhg
+>>>>>>> b2
